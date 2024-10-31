@@ -1,6 +1,6 @@
 def fun(a, b, i):
     result = a * a * i + b
-    return result
+    return result #결과값 반환
 
 a = int(input('a = '))
 b = int(input('b = '))
