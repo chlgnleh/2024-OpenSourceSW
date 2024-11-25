@@ -7,4 +7,6 @@ OpenSource
 
 sample2 수정 완료 과제끝!!
 
-13주차 중돌 여기는 sample1
+
+13주차 중돌 여기는 sample1과 sample2였습니다
+ 
