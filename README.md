@@ -4,4 +4,7 @@ OpenSource
 10월 2주차 과제중..
 11.01 git pull 해보는중
 
+
 sample2 수정 완료 과제끝!!
+
+13주차 중돌 여기는 sample1
